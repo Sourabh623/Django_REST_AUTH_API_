@@ -1,0 +1,4 @@
+EMAIL_USER = 'test@exmaple.com'
+EMAIL_PASS = 'password-here'
+EMAIL_FROM = 'test@exmaple.com'
+EMAIL_TO = 'user@gmail.com'
